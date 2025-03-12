@@ -1,6 +1,6 @@
 name: "🐞 バグ報告 (Bug Report)"
 description: "バグを報告する場合はこちらから"
-title: "[Bug] "
+title: ""
 labels: ["bug"]
 assignees: []
 body:
@@ -36,7 +36,7 @@ body:
     attributes:
       label: "バグの概要"
       description: "発生した問題の内容を簡潔に説明してください。"
-      placeholder: "例: 管理画面で保存ボタンを押すとエラーが発生する"
+      placeholder: "例: データの更新に失敗する"
     validations:
       required: true
 
@@ -44,12 +44,8 @@ body:
     id: reproduction-steps
     attributes:
       label: "再現手順"
-      description: "バグを再現する手順を記入してください。"
-      placeholder: |
-        1. `https://app.orizm.com/` にアクセスする
-        2. 設定画面を開く
-        3. 保存ボタンをクリック
-        4. エラーが表示される
+      description: "バグを再現する手順や、コードを記入してください。"
+      placeholder: ""
     validations:
       required: true
 
