@@ -21,10 +21,14 @@ Orizm は、Next.js と Vercel を最大限に活用した次世代の Web サ�
 
 Orizm Developer Program の参加者はどなたでもご利用いただけます。
 
+投稿の前に、ガイドラインをご確認ください。
+
+➡️ **[Orizm Developer Community へようこそ！](https://github.com/chot-Inc/orizm-community/discussions/1)**
+
 ---
 
-## **Developer Program に参加する**
-Orizm を試してみたい方は、公式サイトからお申し込みください。
+## **Developer Program / 商用利用 の申し込み**
+Orizm を試してみたい方、または商用利用を開始する方は、公式サイトからお申し込みください。
 
 ➡️ **[Orizm 公式サイト](https://orizm.com/)**
 
