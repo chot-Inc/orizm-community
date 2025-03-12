@@ -36,3 +36,5 @@ Orizm を試してみたい方は、公式サイトからお申し込みくだ�
 | **公式サイト** | [https://orizm.com/](https://orizm.com/) |
 | **ドキュメント** | [https://docs.orizm.com/](https://docs.orizm.com/) |
 | **開発者コンソール** | [https://app.orizm.com/](https://app.orizm.com/) |
+| **Community** | [https://github.com/chot-Inc/orizm-community/](https://github.com/chot-Inc/orizm-community/) |
+
