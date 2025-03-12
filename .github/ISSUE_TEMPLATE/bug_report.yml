@@ -1,6 +1,5 @@
 name: "🐞 バグ報告 (Bug Report)"
 description: "バグを報告する場合はこちらから"
-title: ""
 labels: ["bug"]
 assignees: []
 body:
