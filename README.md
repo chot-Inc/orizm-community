@@ -41,4 +41,5 @@ Orizm を試してみたい方、または商用利用を開始する方は、�
 | **ドキュメント** | [https://docs.orizm.com/](https://docs.orizm.com/) |
 | **開発者コンソール** | [https://app.orizm.com/](https://app.orizm.com/) |
 | **Community** | [https://github.com/chot-Inc/orizm-community/](https://github.com/chot-Inc/orizm-community/) |
+| **ステータス** | [https://orizm.statuspage.io/](https://orizm.statuspage.io/) |
 
